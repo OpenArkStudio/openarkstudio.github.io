@@ -1,2 +1,2 @@
-# arkgame.github.io
-ARK docs
+# quadhex.github.io
+Documents
