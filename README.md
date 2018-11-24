@@ -1,2 +1,2 @@
 # quadhex.github.io
-Documents
+Documents of our open source projects.
