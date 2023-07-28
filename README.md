@@ -1,6 +1,5 @@
-# ArkNX documents
+# OpenARK Studio documents
 
-Documents of our open source projects.
+Documents of our open-source projects.
 
-- [ARK](https://arknx.com/ARK) - A lightweight, agility, elastic, distributed plugin framework written by C++，make it easier and faster to create your own application service.
-
+- [ARK](https://openarkstudio.github.io) - A lightweight, agile, elastic, distributed plugin framework written by C++, making it easier and faster to create your own application services.
